@@ -1,7 +1,7 @@
 {
   "name": "chary-tree-view",
   "main": "./lib/chary-tree-view",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Tree-view responds to only double-click to avoid opening a large file accidentally",
   "keywords": [
     "tree-view",
@@ -10,6 +10,6 @@
   "repository": "https://github.com/h2so5/atom-chary-tree-view",
   "license": "MIT",
   "engines": {
-    "atom": ">1.16.0"
+    "atom": ">=1.16.0"
   }
 }
